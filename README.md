@@ -1,5 +1,5 @@
-# Flutter Tesseract OCR package
+# Flutter OCR
 
-Flutter extract text from image using Tesseract OCR package
+Flutter extract text from image using Tesseract OCR  and image_cropper package
 
 
